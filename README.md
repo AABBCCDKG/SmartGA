@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-This project explores how to enhance the efficiency and accuracy of Genetic Algorithms (GA) by leveraging the reasoning capabilities of a Large Language Model (LLM), specifically GPT-3.5-turbo. Traditionally, GAs rely on random generation of the initial population and random mutations during the evolution process. By integrating the pre-trained knowledge and reasoning capabilities of an LLM, we aim to guide the generation of the initial population and the direction of mutations, leading to better optimization results in less time.
+This project enhances the Genetic Algorithm (GA) for fitting the position function of objects, primarily circles, in video frames. By leveraging the reasoning capabilities of a Large Language Model (LLM) like ChatGPT-3.5-turbo, we aim to improve the precision and efficiency of the GA. Traditional genetic algorithms typically rely on random generation of the initial population and random mutations. By incorporating the LLM's knowledge and inference abilities, we can generate more accurate initial populations and guide the direction of mutations, leading to better fitting results in less time.
+
 
 ## How to use it
 
