@@ -1,4 +1,4 @@
-# LLM-Guided GA for Position Fitting
+# LLM-Guided GA for function fitting
 
 ## Project Overview
 
