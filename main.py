@@ -15,7 +15,7 @@ def get_image_paths(folder_path):
         return image_paths
 print("\nStart Running\n")
 
-folder_path = '/Users/dong/Desktop/video/withballframes'
+#folder_path = '<insert your video frame folder path>'
 image_paths = get_image_paths(folder_path)
 
 detector = DetectObject()
