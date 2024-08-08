@@ -1,4 +1,4 @@
-# genetic_algorithm_evolution_guided_by_LLM
+# LLM-Guided GA for Position Fitting
 
 ## Project Overview
 
@@ -14,3 +14,9 @@ To use this project, you need to set up your OpenAI API key. Follow these steps:
 
    ```python
    #api_key = "<insert your api_key>"
+3. In the `main.py` file, locate the following line and insert your video frame folder path:
+
+   ```python
+   #folder_path = '<insert your video frame folder path>'
+
+5. Run the `main.py` file.
