@@ -1,4 +1,4 @@
-# LLM-Guided GA for function fitting
+# SmartGA
 
 ## Project Overview
 
